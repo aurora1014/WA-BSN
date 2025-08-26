@@ -57,8 +57,7 @@ You can download pretrained checkpoints of our method. Place these files into `c
 | :----: | :------------: | :------------------: | :---------: |
 | AP-BSN |       DND      |     APBSN_DND.yaml   | [APBSN_DND.pth](https://drive.google.com/file/d/1tixIn1qd9J2bQf4UZAXOq8AgLJ_FKohO/view?usp=sharing) |
 | AP-BSN |      SIDD      |    APBSN_SIDD.yaml   | [APBSN_SIDD.pth](https://drive.google.com/file/d/1dGOtPSet0WZZ5QzSPunXtEByk8lw_fCO/view?usp=sharing) |
-| AP-BSN | SIDD_benchmark | APBSN_SIDDbench.yaml | [APBSN_SIDDbench.pth](https://drive.google.com/file/d/15U229KMfD_hquB29MwgRfFO1U4l-U3_7/view?usp=sharing) |
-| AP-BSN |      NIND      |    APBSN_NIND.yaml   | [APBSN_NIND.pth](https://drive.google.com/file/d/1O0CKMc1C44__Ae80W0DsfOUMoELX4UHA/view?usp=sharing) |
+
 
 ### SIDD Result images (val/benchmark)
 
