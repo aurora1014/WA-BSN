@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="SshConfigs">
-    <configs>
-      <sshConfig host="202.119.84.15" id="e73518e9-bd47-4cdc-b0a2-27cfb854d63c" keyPath="D:\鹤鹤\刘红毅.ppk" port="1522" nameFormat="DESCRIPTIVE" username="lhy008" useOpenSSHConfig="true" />
-    </configs>
-  </component>
-</project>
