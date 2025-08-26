@@ -55,8 +55,8 @@ You can download pretrained checkpoints of our method. Place these files into `c
 
 | Method |      Dataset   |      Config file     | Pre-trained |
 | :----: | :------------: | :------------------: | :---------: |
-| AP-BSN |       DND      |     APBSN_DND.yaml   | [APBSN_DND.pth](https://easylink.cc/ovsot7) |
-| AP-BSN |      SIDD      |    APBSN_SIDD.yaml   | [APBSN_SIDD.pth](https://easylink.cc/b9nd3q) |
+| AP-BSN |       DND      |     APBSN_DND.yaml   | [WABSN_DND.pth](https://easylink.cc/ovsot7) |
+| AP-BSN |      SIDD      |    APBSN_SIDD.yaml   | [WABSN_SIDD.pth](https://easylink.cc/b9nd3q) |
 
 
 ### SIDD Result images (val/benchmark)
