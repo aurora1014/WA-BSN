@@ -66,15 +66,6 @@ Here are the result images of the SIDD validation/benchmark dataset in the main 
 [[validation_images](https://drive.google.com/file/d/1MsCZ6Vy67ON5kOmql7JnjlAnZIzNyIJz/view?usp=sharing)]
 [[benchmark_images](https://drive.google.com/file/d/17g7IqIy3GFjERa61A4U1omKGKYrL2PFu/view?usp=sharing)]
 
-
-## Quick test
-
-To test on a single noisy image with pre-trained AP-BSN in gpu:0.
-
-```
-python test.py -c APBSN_SIDD -g 0 --pretrained APBSN_SIDD.pth --test_img ./YOUR_IMAGE_NAME_HERE.png
-```
-
 ---
 
 ## Training & Test
@@ -95,16 +86,17 @@ Arguments:
   --thread THREAD_NUM  (optional)  Number of thread for dataloader. (default: 4)
 ```
 
-You can control detail experimental configurations (e.g. training loss, epoch, batch_size, etc.) in each of config file.
+
 
 Examples:
 
 ```
 # Train AP-BSN for the SIDD dataset using gpu:0
 python train.py -c APBSN_SIDD -g 0
-
-# Train AP-BSN for the DND dataset with session name "MyAPBSN_DND" using gpu:0 and keep training (resume)
-python train.py -c APBSN_DND -g 0 -s MyAPBSN_DND -r
+```
+```
+# Train AP-BSN for the SIDD dataset using gpu:0
+python train.py -c APBSN_SIDD -g 0
 ```
 
 ### Test
@@ -127,7 +119,7 @@ Arguments:
   --test_dir DIR       (optional)  Directory of images to denoise.
 ```
 
-You can also control detail test configurations (e.g. on/off R^3, test dataset, etc.) in each of config file.
+
 
 Examples:
 
