@@ -130,11 +130,6 @@ python test.py -c APBSN_SIDD -g 0 -e 20
 # Test SIDD dataset for pre-trained model (./ckpt/APBSN_SIDD.pth) in gpu:0
 python test.py -c APBSN_SIDD -g 0 --pretrained APBSN_SIDD.pth
 
-# Test a image (./sample_image.png) with pre-trained SIDD AP-BSN in gpu:0 (image will be saved at root directory of project)
-python test.py -c APBSN_SIDD -g 0 --pretrained APBSN_SIDD.pth --test_img ./sample_image.png
-
-# Test images in a folder (./test/*)
-python test.py -c APBSN_SIDD -g 0 --pretrained APBSN_SIDD.pth --test_dir ./test
 ```
 
 ---
@@ -164,10 +159,7 @@ Here is reported results of WA-BSN. Please refer our paper for more detailed res
 
 ---
 
-### Update log
 
-- (22.04.15) fixed a bug of single image test without dataset, and update test code for entire image folder.
-- (22.05.13) upload result images of the SIDD validation/benchmark dataset.
 
 ## Acknowledgement
 
