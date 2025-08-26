@@ -149,12 +149,7 @@ Here is reported results of WA-BSN. Please refer our paper for more detailed res
 ## Reference
 
 ```
-@inproceedings{lee2022apbsn,
-  title={AP-BSN: Self-Supervised Denoising for Real-World Images via Asymmetric PD and Blind-Spot Network}, 
-  author={Lee, Wooseok and Son, Sanghyun and Lee, Kyoung Mu},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-  year={2022}
-}
+
 ```
 
 ---
