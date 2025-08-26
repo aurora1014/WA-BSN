@@ -1,4 +1,4 @@
-#WA-BSN: Self-Supervised Real-World Image Denoising based on Wavelet-Adaptive Blind Spot Networ
+# WA-BSN: Self-Supervised Real-World Image Denoising based on Wavelet-Adaptive Blind Spot Networ
 
 This is an official PyTorch implementation of "WA-BSN: Self-Supervised Real-World Image Denoising based on Wavelet-Adaptive Blind Spot Network" in .
 
