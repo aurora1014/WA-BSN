@@ -151,13 +151,13 @@ python test.py -c APBSN_SIDD -g 0 --pretrained APBSN_SIDD.pth --test_dir ./test
 
 ### Quantitative results
 
-Here is reported results of AP-BSN. Please refer our paper for more detailed results.
+Here is reported results of WA-BSN. Please refer our paper for more detailed results.
 
 ![results](./figs/results.png)
 
 ### Qualitative results
 
-![visual](./figs/visual_results.png)
+![visual](./figs/results.png)
 
 ## Reference
 
