@@ -145,11 +145,11 @@ python test.py -c APBSN_SIDD -g 0 --pretrained APBSN_SIDD.pth --test_dir ./test
 
 Here is reported results of WA-BSN. Please refer our paper for more detailed results.
 
-![results](./figs/results.png)
+![results](./figs/result.png)
 
-### Qualitative results
+### Visual results
 
-![visual](./figs/results.png)
+![visual](./figs/SIDD.png)
 
 ## Reference
 
