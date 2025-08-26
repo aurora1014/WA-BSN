@@ -142,7 +142,7 @@ Here is reported results of WA-BSN. Please refer our paper for more detailed res
 
 ![results](./figs/result.png)
 
-### Visual results
+### Qualitative results
 
 ![visual](./figs/SIDD.png)
 
