@@ -96,7 +96,7 @@ python train.py -c APBSN_SIDD -g 0
 ```
 ```
 # Train AP-BSN for the SIDD dataset using gpu:0
-python train.py -c APBSN_SIDD -g 0
+python train.py -c APBSN_DND -g 0
 ```
 
 ### Test
