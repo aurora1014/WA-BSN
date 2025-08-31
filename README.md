@@ -63,8 +63,8 @@ You can download pretrained checkpoints of our method. Place these files into `c
 
 Here are the result images of the SIDD validation/benchmark dataset in the main table.
 
-[[validation_images](https://drive.google.com/file/d/1MsCZ6Vy67ON5kOmql7JnjlAnZIzNyIJz/view?usp=sharing)]
-[[benchmark_images](https://drive.google.com/file/d/17g7IqIy3GFjERa61A4U1omKGKYrL2PFu/view?usp=sharing)]
+[[validation_images]()]
+[[benchmark_images]()]
 
 ---
 
